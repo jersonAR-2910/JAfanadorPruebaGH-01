@@ -1,6 +1,7 @@
 # JAfanadorPruebaGH-01
 primera prueba del repositorio en GITHUB con Unity
 
+de jerson afanador
 
 #tener en cuentas
 
